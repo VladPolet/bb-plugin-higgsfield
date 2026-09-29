@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.gstack/
+.playwright-mcp/
+.claude/
+*.log
